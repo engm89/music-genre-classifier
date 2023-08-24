@@ -1,4 +1,4 @@
-### music-genre-classifier by Mustafa Khaleel
+### music-genre-classifier
 
 ### In this project, we show how to implement a music genre classifier from scratch in TensorFlow/Keras using features calculated by the Librosa library. in addition, a GUI interface with Gradio provides
 
